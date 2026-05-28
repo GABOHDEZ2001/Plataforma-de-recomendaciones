@@ -1,0 +1,4 @@
+python app.py 
+
+en la ruta 
+C:\Users\Gaboh\OneDrive\Documentos\Proyecto Digitalizacion\Proyecto de Ángel\sitio_web_angel\src
